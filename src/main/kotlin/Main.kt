@@ -75,7 +75,7 @@ fun ejercicio8 (){
 }
 
 fun ejercicio9 () {
-    println("Ejercicio #8")
+    println("Ejercicio #9")
     data class Persona(val nombre: String, val edad: Int);
     val personas = listOf(Persona("Juan", 25), Persona("María", 32),
         Persona("Ana", 35), Persona("Pedro", 29))
@@ -86,7 +86,7 @@ fun ejercicio9 () {
 }
 
 fun ejercicio10 (){
-    println("Ejercicio #8")
+    println("Ejercicio #10")
     val mapa = mapOf("nombre" to "Juan", "edad" to 25, "profesión" to
             "Ingeniero")
     val list = mapa.map { (clave, valor) -> "$clave: $valor" }
@@ -95,7 +95,7 @@ fun ejercicio10 (){
 }
 
 fun ejercicio11 ( ){
-    println("Ejercicio #8")
+    println("Ejercicio #11")
     val palabras = listOf("perro", "gato", "perro", "pájaro", "gato", "perro")
     val totalPalabras = palabras.groupingBy { "$it to " }.eachCount()
     println(totalPalabras)
