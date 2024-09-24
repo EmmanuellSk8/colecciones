@@ -1,4 +1,4 @@
-package org.example
+package org.example.colecciones
 
 fun main (){
     val claves = listOf("nombre", "edad", "profesión");

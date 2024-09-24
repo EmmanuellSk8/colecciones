@@ -1,4 +1,4 @@
-package org.example
+package org.example.colecciones
 
 fun main () {
     data class Persona(val nombre: String, val edad: Int);

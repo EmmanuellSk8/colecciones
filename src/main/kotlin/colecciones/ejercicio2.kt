@@ -1,7 +1,4 @@
-package org.example
-
-import java.util.*
-import kotlin.text.HexFormat
+package org.example.colecciones
 
 fun main (){
     val nombres = listOf("Juan", "María", "Ana", "Pedro")
