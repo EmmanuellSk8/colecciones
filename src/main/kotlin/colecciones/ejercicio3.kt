@@ -1,4 +1,4 @@
-package org.example
+package org.example.colecciones
 
 fun main (){
     val numeros = listOf(1, 2, 3, 4, 5)

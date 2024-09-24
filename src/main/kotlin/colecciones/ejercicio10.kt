@@ -1,4 +1,4 @@
-package org.example
+package org.example.colecciones
 
 fun main (){
     val mapa = mapOf("nombre" to "Juan", "edad" to 25, "profesión" to

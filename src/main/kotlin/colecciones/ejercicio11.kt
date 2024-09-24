@@ -1,4 +1,4 @@
-package org.example
+package org.example.colecciones
 
 fun main ( ){
     val palabras = listOf("perro", "gato", "perro", "pájaro", "gato", "perro")
